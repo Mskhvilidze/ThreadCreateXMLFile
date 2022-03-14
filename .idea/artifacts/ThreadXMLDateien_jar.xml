@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ThreadXMLDateien:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ThreadXMLDateien_jar</output-path>
+    <root id="archive" name="ThreadXMLDateien.jar">
+      <element id="module-output" name="ThreadXMLDateien" />
+    </root>
+  </artifact>
+</component>
